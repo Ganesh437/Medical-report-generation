@@ -1,1 +1,3 @@
 # Medical-report-generation
+If you visit a doctor with chest pain , breathing issues or regular medical checkup you will be asked to get a Chest X-Ray . Radiologists examines the chest X-Ray and gets to a conclusion of normality or Abnormalities and further medication and describes the chest X-Ray in verbal form. The problem with today's diagnostics is medical report errors where increasing day by day due to lack of experienced radiologists. These Medical report errors will be dangerous and can put human's life in risk by incorrect diagnostics and medications.
+In this case study we are aiming at generating the medical report from chest X-Ray images which describes the medical image.
